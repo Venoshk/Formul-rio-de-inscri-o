@@ -1,7 +1,7 @@
 
 <p>Foi um desafio emocionante realizar este projeto, especialmente enquanto estou aprendendo TypeScript. Embora não tenha sido particularmente difícil em termos de complexidade, optar por desenvolvê-lo na linguagem que estou estudando adicionou uma camada extra de desafio. A jornada foi repleta de aprendizado e superação, e estou empolgado com os conhecimentos adquiridos ao longo do caminho.</p>
 
-<h1Capturas</h1>
+<h1>Capturas</h1>
 
 <h2>desktop-design:</h2>
 
